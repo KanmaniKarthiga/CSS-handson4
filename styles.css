@@ -33,7 +33,7 @@ li{
     padding-left: 40px;
 }
 .container2{
-    height: 125px;
+    height: 122px;
     width: 100%;
     border-radius: 15px;
     border: 1px solid brown;
@@ -51,20 +51,21 @@ li{
     display: inline-block;
 }
 .box1{
-    position: relative;
+    position: absolute;
     left: 20px;
 }
 .box2{
-    position: relative;
-    left: 80px;
+    position: absolute;
+    right: 20px;
 }
 .box3{
-    position: relative;
-    left: 140px;
+    position: absolute;
+    left: 480px;
 }
 .box4{
-    position: relative;
-    left: 465px;
+    position: absolute;
+    left: 480px;
+    top: 165px;
 }
 .jee{
     height: 30px;
